@@ -1,0 +1,34 @@
+{
+  "landingPageMeta": {
+    "title": "KIIIBS Mechanical Keyboard Store",
+    "description": "We sell custom mechanical keyboards, keycaps and deskmats for your gaming and office setup, right in the heart of Berlin.",
+    "image": "/icons/KIIIBS-banner.png"
+  },
+  "categoryPageMeta": {
+    "keyboards": {
+      "title": "All Mechanical Keyboards | KIIIBS",
+      "description": "Explore our selection of high quality mechanical keyboards that will elevate your typing experience.",
+      "image": "/products/keyboards/cow-full.webp"
+    },
+    "keycaps": {
+      "title": "All Custom Keycaps | KIIIBS",
+      "description": "Enjoy typing with style and upgrade your custom mechanical keyboard with our elegant keycaps",
+      "image": "/products/keycaps/cap2.webp"
+    },
+    "deskmats": {
+      "title": "All Deskmats | KIIIBS",
+      "description": "Make yourself comfortable in your work or gaming setup with one of our KIIIBS deskmats. Soft and stylish!",
+      "image": "/products/deskmats/grrr-full.webp"
+    }
+  },
+  "checkoutPageMeta": {
+    "title": "Checkout",
+    "description": "Complete your purchase.",
+    "image": "/icons/KIIIBS-banner.png"
+  },
+  "fofPageMeta": {
+    "title": "404: Page not found.",
+    "description": "404: Page not found.",
+    "image": "/icons/KIIIBS-banner.png"
+  }
+}
